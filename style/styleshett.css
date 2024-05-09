@@ -1,3 +1,5 @@
+
+
 body {
     margin: 0px;
     display: flex;
@@ -13,6 +15,7 @@ border: solid 3px black;
 }
 
 #Who-is-he {
+    justify-content: center;
     background-color: #8E0100;
     width: 881px;
     height: 238.5px;
